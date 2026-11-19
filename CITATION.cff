@@ -1,0 +1,13 @@
+
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    title: repro_1119Tasse
+    type: software
+    authors:        
+        - family-names: Gärtner
+          given-names: Gerd        
+        - name: H_iNstitut        
+        - family-names: Inger
+          given-names: Isa
+          orcid: 1234-4123-3212-3214
+    date-released: 2026-12-03
