@@ -1,0 +1,24 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "repro_1119Tasse",
+        "@type": "SoftwareSourceCode",
+        "contributor": [          
+            {
+                "@type": "Person",
+                "familyName": "Gärtner",
+                "givenName": "Gerd"
+            },          
+            {
+                "@type": "Organization",
+                "name": "H_iNstitut"
+            },          
+            {
+                "@id": "1234-4123-3212-3214",
+                "@type": "Person",
+                "familyName": "Inger",
+                "givenName": "Isa"
+            }
+        ],
+        "datePublished": "2026-12-03"
+    }
