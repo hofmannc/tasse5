@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "Titel vom 19.11.2026"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?",
+    "set": "",
+    "values": "ss"
+  },
+  {
+    "question": "Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",
+    "set": "",
+    "values": "ss"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"PO2\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Enti\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Rev2\"",
+    "values": "Person"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"PO2\"",
+    "values": "G\u00e4rtner"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Rev2\"",
+    "values": "Inger"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"PO2\"",
+    "values": "Gerd"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Rev2\"",
+    "values": "Isa"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Enti\"",
+    "values": "H_iNstitut"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"Rev2\"",
+    "values": "1234-4123-3212-3214"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"PO2\" Set #1",
+    "values": "Prod Own"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Enti\" Set #1",
+    "values": "Leit"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2026-11-20"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2026-12-03"
+  }
+]
