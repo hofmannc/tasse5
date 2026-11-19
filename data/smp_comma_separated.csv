@@ -1,0 +1,17 @@
+Wie lautet der Titel des Softwareprojekts?,,Titel vom 19.11.2026
+In welche Anwendungsklasse wird die Software eingeordnet?,,Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gewährleisten. Sie ist die Grundlage für einen Übergang zum Produktstatus.
+Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?,,ss
+"Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",,ss
+Typ,"Set ""PO2""",Person
+Typ,"Set ""Enti""",Entität
+Typ,"Set ""Rev2""",Person
+Familienname(n),"Set ""PO2""",Gärtner
+Familienname(n),"Set ""Rev2""",Inger
+Rufname(n),"Set ""PO2""",Gerd
+Rufname(n),"Set ""Rev2""",Isa
+Name,"Set ""Enti""",H_iNstitut
+ORCID,"Set ""Rev2""",1234-4123-3212-3214
+Rolle,"Set ""PO2"" Set #1",Prod Own
+Rolle,"Set ""Enti"" Set #1",Leit
+Wann beginnt das Softwareprojekt?,,2026-11-20
+Wann endet das Softwareprojekt?,,2026-12-03
